@@ -1,0 +1,19 @@
+body{
+    background-color: green;
+    
+    
+}
+
+form{
+    background-color: white;
+    margin: 0 auto;
+    padding: 20px; 
+    max-width: 600px;
+}
+h1{
+    text-align: center;
+}
+.formulario{
+    display: flex;
+    flex-direction: column;
+}
